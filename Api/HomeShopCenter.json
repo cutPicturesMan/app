@@ -1,0 +1,25 @@
+{
+  "num": 4,
+  "list": [
+    {
+      "name": "正佳广场",
+      "img": "shopcenter-1",
+      "count": 35
+    },
+    {
+      "name": "白云万达广场",
+      "img": "shopcenter-2",
+      "count": 110
+    },
+    {
+      "name": "凯德广场·云尚",
+      "img": "shopcenter-3",
+      "count": 56
+    },
+    {
+      "name": "来又来广场",
+      "img": "shopcenter-4",
+      "count": 30
+    }
+  ]
+}

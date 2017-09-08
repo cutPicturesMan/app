@@ -1,0 +1,83 @@
+[
+  {
+    "title": "华莱士",
+    "subTitle": "美味单人餐，提供免费WiFi",
+    "img": "like_1",
+    "distance": "100",
+    "price": 9,
+    "old_price": 18,
+    "sell": 98
+  },
+  {
+    "title": "正新鸡排",
+    "subTitle": "[全国]正新鸡排尊享版单人餐",
+    "img": "like_2",
+    "distance": "100",
+    "price": 9.5,
+    "old_price": 20,
+    "sell": 9918
+  },
+  {
+    "title": "千尊比萨",
+    "subTitle": "[厦门等]精彩双人套餐，提供免费WiFi",
+    "img": "like_3",
+    "distance": "150",
+    "price": 55,
+    "old_price": 90,
+    "sell": 36187
+  },
+  {
+    "title": "老知青",
+    "subTitle": "[厦门等]100元代金券1张，可叠加",
+    "img": "like_4",
+    "distance": "150",
+    "price": 89.9,
+    "old_price": 100,
+    "sell": 7520
+  },
+  {
+    "title": "壹顿牛排",
+    "subTitle": "[厦门等]牛排套餐，建议单人使用",
+    "img": "like_5",
+    "distance": "200",
+    "price": 24.9,
+    "old_price": 27,
+    "sell": 98895
+  },
+  {
+    "title": "食锦记",
+    "subTitle": "[厦门等]100元代金券1张，可叠加",
+    "img": "like_6",
+    "distance": "1KM",
+    "price": 88,
+    "old_price": 100,
+    "sell": 9638
+  },
+  {
+    "title": "食锦记1",
+    "subTitle": "[厦门等]100元代金券1张，可叠加",
+    "img": "like_6",
+    "distance": "1KM",
+    "price": 88,
+    "old_price": 100,
+    "sell": 9638
+  },
+  {
+    "title": "食锦记2",
+    "subTitle": "[厦门等]100元代金券1张，可叠加",
+    "img": "like_6",
+    "distance": "1KM",
+    "price": 88,
+    "old_price": 100,
+    "sell": 9638
+  },
+  {
+    "title": "食锦记3",
+    "subTitle": "[厦门等]100元代金券1张，可叠加",
+    "img": "like_6",
+    "distance": "1KM",
+    "price": 88,
+    "old_price": 100,
+    "sell": 9638
+  }
+]

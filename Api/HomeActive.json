@@ -1,0 +1,29 @@
+{
+  "main": {
+    "title": "最高立减25元",
+    "subTitle": "新学员专享",
+    "img": "nsj"
+  },
+  "active": [
+    {
+      "title": "踏青优惠季",
+      "subTitle": "春游装备1元购",
+      "img": "active-1"
+    },
+    {
+      "title": "一元吃",
+      "subTitle": "一元吃美食",
+      "img": "active-2"
+    },
+    {
+      "title": "天天特价",
+      "subTitle": "特惠不打烊",
+      "img": "active-3"
+    },
+    {
+      "title": "热门团购",
+      "subTitle": "看大家都在买什么",
+      "img": "active-4"
+    }
+  ]
+}
